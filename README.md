@@ -1,0 +1,1 @@
+This project will reinforce the HTML concepts and skills learned thus far.
